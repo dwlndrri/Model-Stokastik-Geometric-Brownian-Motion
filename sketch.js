@@ -215,6 +215,6 @@ function draw() {
 }
 
 function openLink() {
-    let link = 'https://colab.research.google.com/drive/1Y6ieeZCXkjzr-lRKrAVWgpj0DdIRWYUT?usp=sharing';  // Tautan yang diinginkan
+    let link = 'https://colab.research.google.com/drive/1h7HMTfAThIik1A0V0nedj3H991vdla4n?usp=sharing';  // Tautan yang diinginkan
     window.open(link, '_blank');
 }
