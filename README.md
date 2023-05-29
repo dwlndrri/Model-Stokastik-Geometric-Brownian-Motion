@@ -1,0 +1,1 @@
+# Model-Stokastik-Geometric-Brownian-Motion
